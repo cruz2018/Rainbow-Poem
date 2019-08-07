@@ -1,4 +1,4 @@
-The  Rainbow
+The  Rainbow and the Unicorn
 
 
 Puple
@@ -6,6 +6,8 @@ Pink
 Orange
 Blue
 Green
+Unicorn
 Yellow
 Red
 These are the colour of the rainbow
+And the unicorn
